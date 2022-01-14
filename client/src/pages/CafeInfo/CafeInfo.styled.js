@@ -29,7 +29,7 @@ export const Cafe3HashtagWrapper = styled.div`
   width: 100%;
   display: flex;
 
-  margin: 10px 0 10px 0px ;
+  margin: 10px 0 0px 0px ;
 
 
   @media screen and (max-width: 960px) {
@@ -43,8 +43,8 @@ export const Cafe3HashtagWrapper = styled.div`
 
 `
 export const Cafe4MapWrapper = styled.div`
-  height: 40vh;
-  margin-top : 40px;
+  height: 45vh;
+  margin-top : 20px;
 
 `
 
